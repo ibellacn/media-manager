@@ -1,9 +1,13 @@
-# media-manager
+## media-manager
 Rest Java web service with Spring Boot.
 
-O programa utiliza o  Maven, como gerenciador de depêndencias, e o Spring Boot. Após clonar o repositório, 
-execute build e teste as requisições localmente pela url:
+O programa utiliza o  Maven, como gerenciador de depêndencias, e o Spring Boot.
 
-Listar mídias disponíveis - "http://localhost:8080/exercise4/medias"
-Selecionar mídia específica - "http://localhost:8080/exercise4/medias/{id}"
-Adicionar mídia - "http://localhost:8080/exercise4/medias?name=&url=videoLength="
+Após clonar o repositório, execute build e teste as requisições localmente pela url:
+
+- Listar mídias disponíveis - "http://localhost:8080/exercise4/medias"
+- Selecionar mídia específica - "http://localhost:8080/exercise4/medias/{id}"
+- Adicionar mídia - "http://localhost:8080/exercise4/medias?name=&url=videoLength="
+
+Autora:
+- Isabella Carine Cruz Nicácio ([@ibellacn](https://github.com/ibellacn))
