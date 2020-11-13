@@ -5,5 +5,5 @@ O programa utiliza o  Maven, como gerenciador de depêndencias, e o Spring Boot.
 execute build e teste as requisições localmente pela url:
 
 Listar mídias disponíveis - "http://localhost:8080/exercise4/medias"
-Selecioar mídia específica - "http://localhost:8080/exercise4/medias/{id}"
+Selecionar mídia específica - "http://localhost:8080/exercise4/medias/{id}"
 Adicionar mídia - "http://localhost:8080/exercise4/medias?name=&url=videoLength="
